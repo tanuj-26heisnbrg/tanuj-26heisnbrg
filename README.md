@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... everything related to technology .
 - 🌱 I’m currently learning ... engineering .
 - 💞️ I’m looking to collaborate on ... nowhere
-- 📫 How to reach me ... please don't !!!
+- 📫 How to reach me ... please don't !!! ( if its neccessary then and only - https://www.linkedin.com/in/tanuj-kumar-yadav-061264288/ )
 - 😄 Pronouns: ... you / don't know me son !!!!
 - ⚡ Fun fact: ... i am going to be a Engineer .
 

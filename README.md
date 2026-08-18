@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @tanuj-26heisnbrg
-- 👀 I’m interested in ... everything related to technology .
-- 🌱 I’m currently learning ... engineering .
-- 💞️ I’m looking to collaborate on ... nowhere
-- 📫 How to reach me ...if its neccessary then and only - https://www.linkedin.com/in/tanuj-kumar-yadav-9053a637a/
+- 👀 I’m interested in everything related to technology .
+- 🌱 I’m currently learning Software engineering and gaining further Consciousness in AI/ML & Cybersecurity.
+- 💞️ I’m looking to collaborate on any of socials.
+- 📫 How to reach me - Check out my socials Below !!
 - 😄 Pronouns: ... they / don't know me son !!!!
-- ⚡ Fun fact: ... i am going to be an Engineer .
+- ⚡ Fun fact: ... I like Sports more than Programming.
 
 
 
@@ -16,16 +16,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=tanuj-26heisnbrg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=tanuj-26heisnbrg&theme=tokyonight&hide_border=false)<br/>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanuj-26heisnbrg&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanuj-26heisnbrg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://komarev.com/ghpvc/?username=tanuj-26heisnbrg&icon=1&color=7)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---

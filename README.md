@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanuj-26heisnbrg
 - 👀 I’m interested in everything related to technology .
-- 🌱 I’m currently learning Software engineering and gaining further Consciousness in AI/ML & Cybersecurity.
+- 🌱 I’m currently learning Software engineering and gaining further Consciousness in STEM Learning.
 - 💞️ I’m looking to collaborate on any of socials.
 - 📫 How to reach me - Check out my socials Below !!
 - 😄 Pronouns: ... they / don't know me son !!!!
